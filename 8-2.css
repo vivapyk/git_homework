@@ -1,0 +1,59 @@
+﻿* {
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+  border-radius: 5px;
+}
+
+body {
+  margin-top: 100px;
+  background-color: #1BBC9B;
+}
+
+.login-form {
+  background-color: #eeeff1;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+}
+
+.text-field {
+  font-size: 14px;
+  /*margin-right: auto;*/
+  /*margin-left: auto;*/
+  width: 260px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.submit-btn {
+  font-size: 14px;
+  background-color: #1BBC9B;
+  /*margin-right: auto;*/
+  /*margin-left: auto;*/
+  width: 260px;
+  padding: 10px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.submit-btn:hover {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
+
+
+.links {
+  text-align: center;
+  /*display: block;*/
+  /*margin-bottom: 20px;*/
+}
+
+.links a {
+  font-size: 12px;
+  color: #9b9b9b;
+}
+
+/*제거 설정*/
+input {
+  border-style: none;
+}
