@@ -1,0 +1,31 @@
+﻿img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+#current{
+            font-weight: 900;
+        }
+.menu{
+            margin-top: 60px;
+            margin-bottom: 60px;
+            text-align: center;
+        }
+
+#logo{
+            width: 165px;
+            height: 58px;
+            margin-top: 80px;
+        }
+
+.category{
+            font-family: "Helvetica";
+            color: rgb(88,89,91);
+            margin-left: 20px;
+            text-decoration: none;
+        }
+.home{
+            font-family: "Helvetica";
+            color: rgb(88,89,91);
+            text-decoration: none;
+        }
